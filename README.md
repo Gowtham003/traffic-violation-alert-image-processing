@@ -1,4 +1,4 @@
-Traffic Signal Violation Detection using Image Processing
+# Traffic Signal Violation Detection using Image Processing
 
 • We design and implement a vehicular traffic violation detection system for cars. Our system proposes a algorithm using image processing techniques which can detect violations taking place on the traffic signal.
 • By using high quality videos of traffic signal, we can detect each and every violating cars during the red signal and the license number of the vehicles can be identified using Plate Recognizer API. We can also identify the owner of the car/bus from the vehicle database and send an alert mail to them.
